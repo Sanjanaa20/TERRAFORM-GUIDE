@@ -24,4 +24,9 @@ key2 = value2
 }
 ```
 Define the resource block as main.tf in any platform suck as Visual Studio VScode.
-```
+
+Use `terraform init` to initiate the configuration file
+Use `terraform plan` to start the actions carried out by terraform file (+) indicated created 
+Use `terraform apply` to apply the creation of the file
+
+### We can deploy resources in AWS cloud, Azure , Ali Cloud , GCP etc
