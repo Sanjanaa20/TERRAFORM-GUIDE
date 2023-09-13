@@ -10,7 +10,7 @@ to define infrastructure resources to a provisioned as block of code.
 Every object that the terraform manage is called RESOURCE.
 
 EXTENSION: .tf file extension
-# PHASES:
+## PHASES:
 INIT
 PLAN
 APPLY
