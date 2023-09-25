@@ -11,9 +11,9 @@ Every object that the terraform manage is called RESOURCE.
 
 EXTENSION: .tf file extension
 ## PHASES:
-INIT
-PLAN
-APPLY
+-INIT
+-PLAN
+-APPLY
 
 **HASHICORP CONFIGURATION LANGUAGE**
 _Syntax_
